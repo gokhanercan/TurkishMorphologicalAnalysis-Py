@@ -61620,7 +61620,7 @@ yediger IS_OA
 yedigir IS_OA
 yedigöller IS_OA
 yedikardeş CL_ISIM
-yedikızkardeş CL_ISIM IS-OA
+yedikızkardeş CL_ISIM IS_OA
 yedikule IS_OA
 yediler CL_ISIM
 yedili IS_ADJ CL_ISIM
